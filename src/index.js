@@ -1,3 +1,1 @@
-import hello from './hello';
-
-console.log(hello);
+import('./hello').then(console.log);
