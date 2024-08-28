@@ -1,2 +1,3 @@
-export const hello = 'Hello';
+import hello from './hello';
+
 console.log(hello);
