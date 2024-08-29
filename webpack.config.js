@@ -15,6 +15,7 @@ module.exports = {
     splitChunks: {
       chunks: "all",
       minSize: 1,
-    }
+    },
+    runtimeChunk: "single"
   }
 };
