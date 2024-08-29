@@ -74,7 +74,7 @@ __webpack_require__.r(__webpack_exports__);
 /************************************************************************/
 var __webpack_exports__ = {};
 /*!**********************!*\
-  !*** ./src/index.js ***!
+  !*** ./src/admin.js ***!
   \**********************/
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _hello__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./hello */ "./src/hello.js");

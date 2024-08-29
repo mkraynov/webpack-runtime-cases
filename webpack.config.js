@@ -1,7 +1,10 @@
 const path = require('path');
 
 module.exports = {
-  entry: "./src/index",
+  entry: {
+    main: "./src/index",
+    admin: "./src/admin"
+  },
   mode: "development",
   devtool: false,
   output: {
